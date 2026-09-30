@@ -1,6 +1,7 @@
 # Changelog
 
 ## 0.6.2 — 2026-09-07
+<!-- hh -->
 
 ### Added
 - `usdcIssuer` and `usdcContractId` added to `NetworkConfig` for both `TESTNET`
